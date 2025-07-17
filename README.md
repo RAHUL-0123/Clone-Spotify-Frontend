@@ -71,7 +71,3 @@ Icons by Font Awesome
 
 Fonts by Google Fonts - Montserrat
 
-📄 License
-This project is for educational and learning purposes only.
-Do not use it for commercial purposes. Spotify is a registered trademark of Spotify AB.
-
